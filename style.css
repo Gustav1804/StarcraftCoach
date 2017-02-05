@@ -77,8 +77,6 @@ ul {
    justify-content: center; 
       flex-direction: column; 
   display: flex; 
-
-*/
 }
 
 #pensum {
@@ -98,12 +96,22 @@ ul {
 }
 
 .front2 {
-	border: 1px dashed orange;
-	height: 100vh;
+  height: 100vh;
   background-image: url("https://i1.wp.com/moco.net/wp-content/uploads/2016/05/StarCraft_II_Legacy_of_the_Void_Logo_psd_jpgcopy.jpg");
-  background-attachment: fixed
+  size: cover;
+  position: center;
+  width: 102%;
+   background-repeat: no-repeat;
   background-size: cover;
-  background-repeat: no-repeat;
+  margin: 0px;
+  text-align: center;
+    color: white;
+  font-family: raleway;
+  text-align: center;
+  align-items: center;
+   justify-content: center; 
+      flex-direction: column; 
+  display: flex; 
 
 }
 #vælg-selv {
