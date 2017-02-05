@@ -125,7 +125,10 @@ ul {
  #grandmasterna:hover{
   background-color: rgb(51, 41, 38);
 }
-
+.grandmaster { 
+ float: left;
+ border: 1px dashed orange;
+}
 .front3 {
   border: 1px dashed orange;
   height: 100vh;
