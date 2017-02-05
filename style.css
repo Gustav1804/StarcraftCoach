@@ -94,14 +94,7 @@ ul {
   width: 100%;
    background-repeat: no-repeat;
   background-size: cover;
-  margin: 0px;
-  text-align: center;
-    color: white;
-  font-family: raleway;
-  text-align: center;
-  align-items: center;
-   justify-content: center; 
-      flex-direction: column; 
+  margin: 0px; 
   display: flex; 
 
 }
