@@ -109,9 +109,10 @@ ul {
 #league {
  margin-top: 2vh;
  margin: auto;
+ border: 1px dashed orange;
 }
 #vælg-selv {
-  color: white;
+  color: orange;
   font-size: 2em;
   border: 1px dashed black;
   float: left; 
