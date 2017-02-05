@@ -105,6 +105,11 @@ ul {
   display: flex; 
 
 }
+
+#league {
+ margin-top: 2vh;
+ margin: auto;
+}
 #vælg-selv {
   color: white;
   font-size: 2em;
