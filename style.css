@@ -26,3 +26,143 @@ header {
 header a:hover{
   background-color: rgb(51, 41, 38);
 }
+#title {
+  font-size: 1.8em;
+  width: 290px;
+  position: absolute; 
+  left: 0; 
+  right: 0; 
+  margin-left: auto; 
+  margin-right: auto; 
+  text-align: center;
+  text-decoration: none;
+  color: white;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 1.3em;
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.list {
+  float: right;
+  list-style-type: none;
+ }
+
+.front {
+  height: 100vh;
+  background-image: url("http://www.hectv.org/wp-content/uploads/2016/03/education-reform.jpg");
+  /* "http://s1.picswalls.com/wallpapers/2016/06/10/4k-high-quality-wallpaper_065229952_309.jpg"*/
+  size: cover;
+  position: center;
+  width: 102%;
+   background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
+  text-align: center;
+    color: white;
+  font-family: raleway;
+  text-align: center;
+  align-items: center;
+   justify-content: center; 
+      flex-direction: column; 
+  display: flex; 
+
+*/
+}
+
+#pensum {
+	font-family: 'Helvetica Neue', sans-serif;
+	color: rgb(237, 45, 80);
+  background-attachment: fixed; 
+  font-size: 3.3em;
+}
+
+#boost {
+ color: rgb(237, 45, 80);
+ /* blå farve rgb(150, 244, 255)*/
+ padding: 0px;
+ font-size: 3.3em;
+ font-family: 'Helvetica Neue', sans-serif;
+
+}
+
+.front2 {
+	border: 1px dashed orange;
+	height: 100vh;
+  background-color: rgb(70, 168, 191);
+  background-attachment: fixed;
+}
+#vælg-selv {
+  color: white;
+  font-size: 2em;
+  border: 1px dashed black;
+  float: left; 
+  margin-left: 2%;
+  margin-top: 25%;
+}
+
+.front3 {
+  border: 1px dashed orange;
+  height: 100vh;
+  color: rgba(31, 173, 88, 0.3);
+  background-color: rgb(58, 224, 124);
+}
+
+#fag {
+  color: white;
+  font-size: 2em;
+  border: 1px dashed black;
+  float: right; 
+  margin-right: 2%;
+  margin-top: 25%;
+}
+
+.CG {
+  border: 1px dashed orange;
+  height: 100vh;
+  color: rgba(31, 173, 88, 0.3);
+  background-color: rgb(30, 255, 154);
+} 
+
+#profilg {
+border: 1px dashed orange;
+}
+
+#profilc  n {
+
+ 
+}
+
+#profilg, #profilc {
+ height: 40vh;
+}
+
+#christina {
+    
+  }
+
+#Gustav, #christina {  
+
+}
+
+}  
+} 
+ float: right;
+}
+ 
+  float: right;
+}
+
+  /*rgb(30, 255, 154)   
