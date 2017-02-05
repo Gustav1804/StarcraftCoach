@@ -81,18 +81,9 @@ ul {
 
 #pensum {
 	font-family: 'Helvetica Neue', sans-serif;
-	color: rgb(237, 45, 80);
+	color: blue;
   background-attachment: fixed; 
   font-size: 3.3em;
-}
-
-#boost {
- color: rgb(237, 45, 80);
- /* blå farve rgb(150, 244, 255)*/
- padding: 0px;
- font-size: 3.3em;
- font-family: 'Helvetica Neue', sans-serif;
-
 }
 
 .front2 {
