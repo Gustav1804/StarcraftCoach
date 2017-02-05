@@ -107,8 +107,8 @@ ul {
 }
 
 #league {
- margin-top: 50px;
- border: 1px dashed orange;
+ margin-top: 1vh;
+ border: 1px dashed blue;
 }
 #vælg-selv {
   color: blue;
@@ -123,6 +123,7 @@ ul {
   border: 1px dashed orange;
   height: 100vh;
   background-image: url("http://media.blizzard.com/battle.net/logos/og-sc2-legacy-of-the-void.jpg");
+   background-repeat: no-repeat;
 }
 
 #fag {
