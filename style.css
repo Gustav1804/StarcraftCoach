@@ -110,14 +110,19 @@ ul {
  margin-top: 0.5vh;
  border: 1px dashed blue;
 }
-#grandmaster {
+#grandmastereu, #grandmasterna {
   color: blue;
   font-size: 2em;
   border: 1px dashed black;
   float: left; 
   margin-top: 25%;
 }
- #grandmaster:hover{
+ #grandmastereu:hover{
+  background-color: rgb(51, 41, 38);
+}
+
+
+ #grandmasterna:hover{
   background-color: rgb(51, 41, 38);
 }
 
