@@ -110,14 +110,15 @@ ul {
  margin-top: 0.5vh;
  border: 1px dashed blue;
 }
-#vælg-selv {
-  float: left;
+#grandmaster {
   color: blue;
   font-size: 2em;
   border: 1px dashed black;
   float: left; 
-  margin-left: 2%;
   margin-top: 25%;
+}
+ #grandmaster:hover{
+  background-color: rgb(51, 41, 38);
 }
 
 .front3 {
