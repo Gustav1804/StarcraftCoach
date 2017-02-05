@@ -102,12 +102,15 @@ ul {
 #league {
  margin-top: 0.5vh;
  border: 1px dashed blue;
+ height: 146px;
 }
 #grandmastereu, #grandmasterna {
   color: blue;
   font-size: 2em;
   border: 1px dashed blue;
   float: left; 
+  height: 50px; 
+  width: 50px;
   }
  #grandmastereu:hover{
   background-color: rgb(51, 41, 38);
